@@ -21,3 +21,19 @@ font-size: 1.4em;
 color:black;
 text-align: center;
 }
+
+.btn{
+    height: 1.9em;
+    color:white;
+    background-color: blue;
+    margin-left: 50%;
+}
+
+.paragraph{
+    box-sizing: border-box;
+    width: 15%;
+    word-wrap: break-word;
+    margin-left: 10%;
+    border:1px solid black;
+    padding: .2em .2em;
+}
